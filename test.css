@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.cursor{
+    color: blue;
+    cursor:url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/9632/sad.png"),auto;
+}
+.container{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    /* flex-direction: row-reverse; */
+}
+.section{
+    width: 110px;
+    padding: 20px;
+    background-color: red;
+}
+.section2{
+    background-color: green;
+}
+.section3{
+    background-color: blue;
+}
